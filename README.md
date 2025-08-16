@@ -1,4 +1,4 @@
-# Event Planner App**
+# Event Planner App
 
 This is a mobile application built using **React Native (Expo)** for planning and managing events.  
 The app allows users to create events, view available events, book tickets, and manage their bookings.  
