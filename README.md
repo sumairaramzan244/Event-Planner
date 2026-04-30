@@ -5,7 +5,6 @@ The app allows users to create events, view available events, book tickets  and 
 It provides an easy way for users to keep track of events in one place.
 
 ---
-
 ## Features
 - Create new events with name, date, and location
 - Browse and view a list of all events
