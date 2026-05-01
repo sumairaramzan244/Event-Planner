@@ -19,6 +19,7 @@ It provides an easy way for users to keep track of events in one place.
 - JavaScript 
 
 ## About
+
 Developed by **Sumaira Ramzan*
 As part of 4th Semester Mobile Computing
 Instructor: Sir Waqas Illyas
