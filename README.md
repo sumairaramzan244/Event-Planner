@@ -12,6 +12,7 @@ It provides an easy way for users to keep track of events in one place.
 - View and manage your bookings
 - Clean and simple user interface
 
+
 ---
 
 ## Tech Stack
